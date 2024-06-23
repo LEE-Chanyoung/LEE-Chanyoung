@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, 안녕하세요. 연습용으로 생성한 계정입니다.
 
 <!--
 **LEE-Chanyoung/LEE-Chanyoung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
